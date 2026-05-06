@@ -17,9 +17,29 @@
 
 - 📫 How to reach me **manoharkrishnagumma@gmail.com**
 
+# AI Engineer Skills
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manohar-krishna&show_icons=true&locale=en&layout=compact" alt="manohar-krishna" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manohar-krishna&show_icons=true&locale=en" alt="manohar-krishna" /></p>
+| Main | Specific |
+|---|---|
+| Programming | Python, OOP, Data Structures |
+| Data Processing | Pandas, NumPy, Data Cleaning |
+| Visualization | Matplotlib, Plotly |
+| Machine Learning | Scikit-learn, XGBoost |
+| Deep Learning | PyTorch, TensorFlow |
+| Neural Networks | CNN, RNN, Transformers |
+| NLP | Hugging Face, Tokenization |
+| Computer Vision | OpenCV, Image Processing |
+| Databases | SQL, PostgreSQL, MongoDB |
+| Data Engineering | Spark, PySpark |
+| MLOps | Docker, MLflow, Kubernetes |
+| APIs | FastAPI, Flask |
+| Cloud | AWS, Azure, GCP |
+| Version Control | Git, GitHub |
+| Experiment Tracking | TensorBoard, Weights & Biases |
+| Deployment | ONNX, TensorRT |
+| Mathematics | Linear Algebra, Probability, Statistics |
+| Optimization | SGD, Adam, Learning Rate Scheduling |
+| Software Engineering | Testing, Debugging, Modular Design |
+| Soft Skills | Communication, Research, Documentation |
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manohar-krishna&" alt="manohar-krishna" /></p>
