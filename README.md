@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Gumma Manohar Krishna</h1>
-<h3 align="center">A ML Engineer focused on designing Intelligent AI solutions. Experienced in computer vision applications, transformer models and end-to-end ML deployment and Proven ability to build scalable systems with FastAPI, AWS, and modern MLOps practices.</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&weight=700&size=24&duration=3000&pause=10000&color=11FF4AFF&background=16098200&center=false&vCenter=true&width=435&lines=Hi+%2C+I'm+Gumma+Manohar+Krishna)](https://git.io/typing-svg)
+<h3 align="left">AI Engineer | Open to Work </h3>
+<h4>Passionate AI Engineer with hands-on experience across the full ML stack — from data pipelines to production deployment. Currently building DaanvEdge and diving deep into Agentic AI, while sharing knowledge through articles on Substack and Medium.</h4>
+<h4>I specialize in designing intelligent systems using PyTorch, TensorFlow, Transformers, and LLMs, backed by strong foundations in MLOps (Docker, Kubernetes, MLflow) and cloud platforms (AWS, Azure, GCP). Experienced in end-to-end workflows — data engineering with Spark/PostgreSQL, model development, API serving via FastAPI, and scalable deployment.</h4>
+<h4>🎯 Currently seeking AI/ML Engineer roles where I can contribute to cutting-edge products, particularly in Agentic AI, NLP, or Computer Vision domains.</h4>
+<h4>📬 Let's connect — open to collaborations, opportunities, and conversations!</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manohar-krishna&label=Profile%20views&color=0e75b6&style=flat" alt="manohar-krishna" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manohar-krishna" alt="manohar-krishna" /></a> </p>
+---
 
 - 🔭 I’m currently working on [DaanvEdge](https://github.com/Manohar-krishna/DaanvEdge.git)
 
@@ -36,3 +38,9 @@
 | Optimization | SGD, Adam, Learning Rate Scheduling |
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manohar-krishna&" alt="manohar-krishna" /></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Manohar-Krishna/Manohar-Krishna/blob/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Manohar-Krishna/Manohar-Krishna/blob/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake" src="https://github.com/Manohar-Krishna/Manohar-Krishna/blob/output/github-contribution-grid-snake.svg"/>
+</picture>
